@@ -1,6 +1,5 @@
 # Welcome to iplocate API!
-What we can with iplocate API? We can find information about connected user. How can you use this library?
-Watch this way.
+What we can with iplocate API? We can get information about connected user. How can we use this library? Watch this way.
 
 First, you must call this class. Watch this way.
    
