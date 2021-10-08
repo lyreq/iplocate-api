@@ -98,14 +98,14 @@ If you want learn subdivision 1, watch this way
 
     $getSubdivision = $iplocate->getSubdivision();
       /* warning!! this method probably coming to null because may not
-      be detected your Postal Code */
+      be detected your subdivision1 */
     
     
 If you want learn subdivision 2, watch this way
 
     $getSubdivision2 = $iplocate->getSubdivision2();
       /* warning!! this method probably coming to null because may not
-      be detected your Postal Code */
+      be detected your subdivision2 */
 
 
 
